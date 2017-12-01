@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+when we initialise a repository a .git file is created. we need to do it to supprt git.
